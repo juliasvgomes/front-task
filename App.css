@@ -1,0 +1,42 @@
+.titulo{
+  text-align: center;
+  font-size: 50px;
+  color:blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.subtitulo{
+  text-align: center;
+  font-size: 20px;
+  color:rgb(2, 2, 19);
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.deletarButton{
+  background-color: rgb(234, 30, 81);
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+.cadastrarButton{
+  background-color: rgb(9, 98, 42);
+  color: rgb(244, 237, 237);
+}
+.formulario{
+  text-align: center;
+  margin: 3px;
+}
+.formulariobody{
+  text-align: center;
+  
+}
+.lista{
+  margin-left: 70px;
+}
+.divlist{
+  margin-top: 25px;
+}
+body{
+  background-color: rgb(192, 236, 241);
+}
